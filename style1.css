@@ -1,0 +1,34 @@
+.one{
+    color: red;
+}
+.two{
+    font-style: italic;
+    color: red;
+}
+.three{
+    color: rgba(139, 69, 19, 0.918);
+}
+.four{
+    color: red;
+    font-style: italic;
+    
+}
+.six{
+    background-color: yellow;
+}
+.five{
+    color: saddlebrown;
+    letter-spacing: 5px;
+}
+.seven{
+    color: saddlebrown;
+}
+.nine{
+    background-color: yellow;
+}
+a{
+    color: red;
+     font-style: italic;
+    background-color: yellow;
+    text-decoration: none;
+}
